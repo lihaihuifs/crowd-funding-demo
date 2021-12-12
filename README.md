@@ -3,3 +3,6 @@ This is a Crowd Funding Project based on Java. It uses SSM (Spring, Spring Boot,
 
 For introduction and technical details, please refer to the file: Java-众筹项目.pdf
 
+For the source code, please refer to: crowd-funding-src.rar.
+
+Best Regards.
